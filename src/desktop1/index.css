@@ -1,0 +1,254 @@
+.header{
+    width: 100vw;
+height: 94px;
+gap: 0px;
+opacity: 0px;
+background: rgba(255, 247, 226, 1);
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.headerimg{
+    width: 75%;
+}
+.container1{
+    background-image: url("https://i.ibb.co/hZvW998/Frame-29.png");
+    height: 170px;
+    width: 98%;
+    display: flex;
+    flex-direction: column;
+justify-content: flex-end;
+
+}
+.bgcontainer{
+    background-color: #ffffff;
+    padding: 60px;
+
+}
+.detailscontainer{
+    background-color: rgba(255, 251, 242, 1);
+    height: 85px;
+    display: flex;
+    flex-direction: row;
+justify-content: space-around;
+align-items: center;
+}
+.btn{
+    background-color: green;
+    color: #ffffff;
+    height: 45px;
+    width: 200px;
+    border-radius: 5px;
+    border: 0px;
+}
+.font{
+    font-weight: bold;
+}
+.profileimg{
+    height: 100px;
+    
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+.aboutme{
+    background: linear-gradient(270.04deg, #FBFCFB 0.05%, #F4F7EC 99.98%);
+    
+height: 62px;
+top: 477px;
+left: 112px;
+padding: 13px 35.34px 13px 35px;
+gap: 252px;
+border-radius: 15px 18px 0px 0px;
+border: 0px 0px 1px 0px;
+opacity: 0px;
+display: flex;
+justify-content: space-between;
+
+}
+.abouteme-box{
+    width: 628px;
+height: 410px;
+top: 475px;
+left: 110px;
+gap: 0px;
+border-radius: 18px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid rgba(220, 220, 220, 1);
+margin-bottom: 30px;
+
+
+}
+.follow-btn{
+    width: Hug (113.66px)px;
+height: 40px;
+top: 13px;
+left: 476px;
+padding: 6px 21px 6px 21px;
+gap: 10px;
+border-radius: 10px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid rgba(58, 100, 59, 1)
+}
+.aboutmetext{
+    width: Hug (534px)px;
+height: Hug (134px)px;
+top: 566px;
+left: 146px;
+gap: 6px;
+opacity: 0px;
+padding-left: 30px;
+
+}
+.aboutmepara{
+    width: 520px;
+height: 101px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 27px;
+text-align: left;
+}
+.language{
+    width: 70px;
+height: Fixed (40px)px;
+padding: 7px 9px 7px 9px;
+gap: 10px;
+border-radius: 16px 0px 0px 0px;
+opacity: 0px;
+background: rgba(46, 55, 164, 0.04);
+
+}
+.languages{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+.box2{
+    width: 584px;
+height: 1087px;
+top: 475px;
+left: 769px;
+gap: 0px;
+border-radius: 29px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid rgba(232, 232, 232, 1);
+background-color: rgba(255, 255, 255, 1);
+margin-left: 40px;
+padding: 20px;
+
+
+}
+.fee{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgba(232, 232, 232, 1);
+}
+.mode{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 15px;
+    
+}
+.mode-box{
+    border: 1px solid rgba(232, 232, 232, 1);
+    background-color: rgb(182, 205, 182);
+    width: 90px;
+    height: 50px;
+    border-radius: 7px;
+    padding-left: 10px;
+}
+.morning{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 15px;
+}
+.morning-boxs{
+    border: 1px solid rgba(232, 232, 232, 1);
+    height: 45px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    margin-right: 18px;
+    margin-bottom: 20px;
+}
+.mark{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.color{
+    background-color: rgb(159, 199, 159);
+}
+.splization{
+    background: linear-gradient(270.04deg, #FBFCFB 0.05%, #F4F7EC 99.98%);
+    
+height: 43px;
+top: 477px;
+left: 112px;
+padding: 13px 35.34px 13px 35px;
+gap: 252px;
+border-radius: 15px 18px 0px 0px;
+border: 0px 0px 1px 0px;
+opacity: 0px;
+padding-left: 30px;
+margin-bottom: 14px;
+
+}
+.splization-box{
+    width: 628px;
+height: 300px;
+top: 475px;
+left: 110px;
+gap: 0px;
+border-radius: 18px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid rgba(220, 220, 220, 1);
+margin-bottom: 30px;
+
+
+}
+.para{
+    background-color: rgba(247, 247, 252, 1);
+    height: 35px;
+    width: 120px;
+    margin-right: 15px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+.Treat{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 30px;
+}
+.work{
+    padding-left: 30px;
+}
+.experience{
+    display: flex;
+}
+.present{
+    margin-left: 100px;
+    color: rgba(51, 53, 72, 0.71);
+}
+.clinic{
+    font-weight: 500;
+}
+.been{
+    color: rgb(41, 124, 41);
+    font-weight: 500;
+}
+hr{
+    width: 500px;
+}
