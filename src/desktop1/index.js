@@ -9,7 +9,16 @@ class ProfileVeiw extends Component {
             <div>
 
                 <div className="header">
-                <img className="headerimg" src="https://i.ibb.co/BBkYPSy/Frame-427319079.png" alt="Frame-427319079" border="0"/>
+                <h1 className="amratam">AMRUTAM</h1>
+                <div className="home">
+                    <p>Home</p>
+                    <p>Find Doctors</p>
+                    <p>About Us</p>
+                </div>
+                <div>
+                    <button className="login">Login</button>
+                    <button className="signin">Sign-up</button>
+                </div>
                 </div>
 
                 <div className="bgcontainer">
